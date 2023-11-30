@@ -1,12 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p><a href="https://eltonleao.com">eltonleao.com</a></p>
-
 <p align="left"> 
   💻 <b>Full Stack WebDev</b> há mais de 4 anos desenvolvendo soluções impactantes para vidas melhores através da tecnologia.
 </p>
+<p align="left"> 
+  <a href="https://eltonleao.com">eltonleao.com</a>
+</p>
 
-<p>🚀 Futuro TechLead </p>
+<p align="left"> 
+  🚀 Futuro TechLead
+</p>
 
 <p align="left">
   <a href="mailto:eltonleao.dev@gmail.com" title="Gmail">
