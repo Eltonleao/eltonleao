@@ -4,7 +4,7 @@
   💻 <b>Full Stack WebDev</b> há mais de 4 anos desenvolvendo soluções impactantes para vidas melhores através da tecnologia.
 </p>
 <p align="left"> 
-  <a href="https://eltonleao.com">eltonleao.com</a>
+  🌐 <a href="https://eltonleao.com">eltonleao.com</a>
 </p>
 
 <p align="left"> 
