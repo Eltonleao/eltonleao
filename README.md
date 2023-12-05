@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  💻 <b>Full Stack WebDev</b> há mais de 4 anos desenvolvendo soluções impactantes para vidas melhores através da tecnologia.
+  💻 Full Stack Web Developer creating impactful solutions for better lives through technology for over 5 years.
 </p>
 <p align="left"> 
   🌐 <a target="_blank" href="https://eltonleao.com">eltonleao.com</a>
 </p>
 
 <p align="left"> 
-  🚀 Futuro TechLead
+  🚀 Future TechLead
 </p>
 
 <p align="left">
